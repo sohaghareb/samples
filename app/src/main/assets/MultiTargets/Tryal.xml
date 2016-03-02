@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="Fridge.Right" size="1.000000 1.000000"/>
+        <ImageTarget name="Fridge.Front" size="1.000000 1.000000"/>
+        <ImageTarget name="Fridge.Left" size="1.000000 1.000000"/>
+        <MultiTarget name="Fridge">
+            <Part name="Fridge.Left" translation="-0.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Fridge.Right" translation="0.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Fridge.Front" translation="0 0 0.5" rotation="AD: 1 0 0 0"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

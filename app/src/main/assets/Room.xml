@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig >
+  <Tracking>
+    <ImageTarget name="laroma_2" size="105.000000 59.009998" />
+    <ImageTarget name="laroma_1" size="110.000000 61.820000" />
+    <ImageTarget name="laroma_3" size="100.000000 56.200001" />
+    <ImageTarget name="bread2_1" size="30.000000 16.860001" />
+    <ImageTarget name="bread2_2" size="30.000000 53.310001" />
+    <ImageTarget name="bread1_3" size="120.000000 67.440002" />
+    <ImageTarget name="bread1_2" size="30.000000 53.380783" />
+    <ImageTarget name="bread1_1" size="20.000000 35.540001" />
+  </Tracking>
+</QCARConfig>

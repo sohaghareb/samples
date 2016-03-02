@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="am2" size="33.000000 58.718861" />
+    <ImageTarget name="am_1tryal_5" size="33.000000 58.718861" />
+    <ImageTarget name="am_1tryal_3" size="66.000000 37.091999" />
+    <ImageTarget name="am_1tryal_2" size="60.000000 33.720001" />
+    <ImageTarget name="pikingfront" size="110.000000 61.820000" />
+    <ImageTarget name="am3" size="44.000000 78.291817" />
+    <ImageTarget name="am1" size="55.000000 97.864769" />
+  </Tracking>
+</QCARConfig>

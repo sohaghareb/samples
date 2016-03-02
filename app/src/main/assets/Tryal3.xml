@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig >
+  <Tracking>
+    <ImageTarget name="bread2_1" size="30.000000 53.310001" />
+    <ImageTarget name="bread2_2" size="30.000000 16.860001" />
+    <ImageTarget name="bread3" size="35.000000 62.277580" />
+    <ImageTarget name="bread2" size="30.000000 53.310001" />
+    <ImageTarget name="bread" size="140.000000 78.680000" />
+    <ImageTarget name="20160229_083536" size="50.000000 88.849998" />
+    <ImageTarget name="20160229_083520" size="50.000000 88.849998" />
+    <ImageTarget name="IMG_0490" size="30.000000 39.990002" />
+    <ImageTarget name="IMG_0491" size="13.000000 17.329000" />
+    <ImageTarget name="mob_4" size="15.000000 15.000000" />
+    <ImageTarget name="mob_2" size="20.000000 20.000000" />
+    <ImageTarget name="IMG_0494" size="18.000000 13.500000" />
+    <ImageTarget name="piking_3" size="70.000000 52.500000" />
+    <ImageTarget name="piking_1" size="20.000000 20.000000" />
+  </Tracking>
+</QCARConfig>

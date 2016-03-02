@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig >
+  <Tracking>
+    <ImageTarget name="laroma2_2" size="60.000000 106.761566" />
+    <ImageTarget name="laroma2_3" size="70.000000 124.555161" />
+    <ImageTarget name="laroma_3" size="95.000000 53.389999" />
+    <ImageTarget name="laroma_2" size="90.000000 160.142349" />
+    <ImageTarget name="laroma_1" size="80.000000 142.348755" />
+  </Tracking>
+</QCARConfig>
